@@ -30,6 +30,10 @@ yarn run start - запуск проекта в dev
 
 
 - Настроен hot module для реакта - FastRefreshPlugin.
+- 
+
+- Настроен babel loader, 
+все options вынес в отдельный файл babel.config.json.
 
 
 - Наш typescript транспилируется отдельным процессом, данную настройку 
